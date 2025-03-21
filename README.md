@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adilia, an <a href="https://www.linkedin.com/in/adilia-arana-50038634b Vanity URL name
+<h1>Hi, I'm Adilia, an <a href="https://linkedin.com/in/adilia-arana-50038634b
 ">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
